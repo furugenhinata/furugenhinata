@@ -3,7 +3,7 @@
 ## 🚀 About Me
 東京農工大学在学。エンジニアとして活動しています。
 
-## 💼 Work Experience
+## 経歴書
 
 ### 🔬 ワークフローシステムの開発 (2025.4 - 現在)
 - **役割**: 設計、開発、実装
@@ -29,17 +29,3 @@
 - **役割**: デザイナー連携・実装
 - **技術**: TypeScript, Vite
 - **成果**: デザイン要件の技術検証と実装
-
-## 🛠️ Tech Stack
-- **Languages**: Python, TypeScript
-- **Frameworks**: FastAPI, Django, Express.js, FastHTML, React Flow
-- **Databases**: PostgreSQL, Supabase, FireStore/Storage
-- **Tools**: LangChain, Vite, Nginx, Gunicorn
-- **OS**: Linux, macOS
-
-## 🌟 Core Skills
-- Python、TypeScriptによる開発経験
-- LangChainを活用した生成AI関連システムの開発経験
-- AI架電サービスの設計から実装まで一貫した開発経験
-- UI/UXデザイナーとの連携によるフロントエンド開発
-- API連携、外部サービス統合の実装経験
